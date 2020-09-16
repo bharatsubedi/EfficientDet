@@ -1,0 +1,6 @@
+numpy~=1.19.1
+opencv-python~=4.4.0.40
+tensorflow-gpu~=2.2.0
+tqdm~=4.48.2
+six~=1.15.0
+Cython~=0.29.21
